@@ -1,7 +1,11 @@
 # MangekyoScanner
 MangekyoScanner is a robust and efficient reconnaissance tool designed for penetration testers and cybersecurity enthusiasts. Using the power of well-known tools such as Nmap and Gobuster, it automates the process of IP scanning and directory fuzzing, providing comprehensive data about a given target.
 
-![MangekyoScannerLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mangekyou_Sharingan_Sasuke_%28Eternal%29.svg/1200px-Mangekyou_Sharingan_Sasuke_%28Eternal%29.svg.png) 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mangekyou_Sharingan_Sasuke_%28Eternal%29.svg/1200px-Mangekyou_Sharingan_Sasuke_%28Eternal%29.svg.png" width="400" height="400">
+</p>
+
+
 
 ## Features
 
@@ -23,11 +27,7 @@ git clone https://github.com/yourusername/MangekyoScanner.git
 ```bash
 cd MangekyoScanner
 ```
-**Step 3: Install the required Python packages**
 
-```bash
-pip install -r requirements.txt
-```
 # Usage
 
 You can run the MangekyoScanner as follows:
