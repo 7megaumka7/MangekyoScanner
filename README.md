@@ -23,7 +23,7 @@ Before running MangekyoScanner, make sure you have Python3 and pip installed. Al
 ```bash
 git clone https://github.com/yourusername/MangekyoScanner.git
 ```
-***Step 2: Change to the cloned directory**
+**Step 2: Change to the cloned directory**
 
 ```bash
 cd MangekyoScanner
